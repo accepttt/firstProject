@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # student-project
 
 ## Project setup
